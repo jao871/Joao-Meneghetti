@@ -1,6 +1,6 @@
 #  João Victor Teodosio Meneghetti | Developer Junior 🧑🏻‍💻
-Here I intend to show who I am, 
-My programming experiences and my improvement in various aspects.
+Here I intend to show who I am in addition 
+my programming experiences and my improvement in various aspects.
 
 ### 💻 programming languages
 
