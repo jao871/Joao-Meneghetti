@@ -12,6 +12,7 @@ my programming experiences and my improvement in various aspects.
 
 ### 🧑🏻‍🎓 Academic process
 I started in Penha, at the Marisa De Mello school, in a full-time program. I made many friends there and studied for nine years.
-    
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoBiro&layout=compact&theme=dark)](https://github.com/jao871/github  readme-stats)
-![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?
+
+<div>
+    <  img src ="https://eemarisademello.wordpress.com/wp-content/uploads/2016/07/11045412_926636664055820_6605432025704559374_n-21.jpg?w=400"  style = padding = 999>  
+</div>
