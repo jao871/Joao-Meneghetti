@@ -13,8 +13,6 @@ my programming experiences and my improvement in various aspects.
 ### 🧑🏻‍🎓 Academic process
 I started in Penha, at the Marisa De Mello school, in a full-time program. I made many friends there and studied for nine years.
 
-<div>
-    <p align="center">
-      <img src="[caminho/para/sua-imagem.png](https://eemarisademello.wordpress.com/wp-content/uploads/2016/07/11045412_926636664055820_6605432025704559374_n-21.jpg?w=400")>
-    </p>
+<div align= "center">
+    <img src="(https://eemarisademello.wordpress.com/wp-content/uploads/2016/07/11045412_926636664055820_6605432025704559374_n-21.jpg?w=400")>
 </div>
