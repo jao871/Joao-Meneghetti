@@ -34,6 +34,7 @@ There, I made lots of friends and worked with amazing teachers who taught me so 
 <p align="center">
   <img src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2020/10/62649497_1099632600224745_1950717718562865152_n.jpg" alt="Foto da ETEC"  width="400">
 </p>
-_____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
 
 ### 🎓 My Firts Projects
