@@ -27,8 +27,9 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 
 So I had two options: either enroll at ETEC Tereza Nunes or at the one in Cidade Tiradentes. But since
-it was closer to my house, I decided to choose the ETEC in Cidade Tiradentes
+it was closer to my house, I decided to choose the ETEC in Cidade Tiradentes, and I feel like I made the best possible choice.
+There, I made lots of friends and worked with amazing teachers who taught me so much
 
-<p aling="center">
-  <img src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2020/10/62649497_1099632600224745_1950717718562865152_n.jpg" alt="Foto da ETEC>
+<p align="center">
+  <img src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2020/10/62649497_1099632600224745_1950717718562865152_n.jpg" alt="Foto da ETEC"  width="400">
 </p>
